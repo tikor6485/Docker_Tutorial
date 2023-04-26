@@ -1,2 +1,2 @@
 # Docker_Tutorial
-This Docker Tutorial is designed to help you learn the basics of Docker and containerization. The tutorial covers essential concepts such as Docker images, containers, Dockerfiles, and Docker Compose, using practical examples and hands-on exercises.
+This Docker Tutorial is designed to help you learn the basics of Docker and containerization. The tutorial covers essential concepts such as Docker images, containers, Dockerfiles, and Docker Compose, using practical examples and hands-on exercises. By the end of the tutorial, you'll have a solid understanding of how Docker works and how to use it to deploy and manage your applications.
